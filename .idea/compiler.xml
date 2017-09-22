@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Yt-test" />
+        <module name="gatling-highcharts-maven-archetype" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Yt-test" target="1.8" />
+      <module name="gatling-highcharts-maven-archetype" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
